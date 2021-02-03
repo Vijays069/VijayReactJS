@@ -1,0 +1,15 @@
+h2{
+    color:blue
+}
+.sample{
+    background-color: green;
+    padding-left: 35%;
+}
+#sample1{
+    background-color: cyan;
+}
+.sm1{
+    border:2px solid blue;
+    border-radius:10px;
+    border-style:dashed;
+}
